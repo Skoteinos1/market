@@ -59,8 +59,8 @@ option = 3 - Runs test, but go to def and choose which strategy. 21 Strategies a
                   }<br>
     You don't have to worry about variables, software tries to go all of them, those numbers you see above are limits, otherwise it would take ages to go to everything. It takes roughly a week to test all strategies.
 
-option = 4 - Runs multiple tests in parallel
-option = 5 - Show graph
+option = 4 - Runs multiple tests in parallel<br>
+option = 5 - Show graph<br>
 
 Warning:
 You will see some ridiculous numbers, but do not go crazy and do not go all in on MSFT or anything else. Things you will learn from these tests:
