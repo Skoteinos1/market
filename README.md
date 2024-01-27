@@ -2,7 +2,7 @@
 
 ![Stock Market](https://github.com/Skoteinos1/market/blob/main/stockmarket.jpg)
 
-Ever wondered which indicator is the best and at what settings? This code will answer that. There are billions of combinations... It will run one week for every ticker. Anyway short answer is RSI, not at default settings, do fundamental before technical and your money is at risk. Don't blame me if you lose all of them.
+Ever wondered which indicator is the best and at what settings? This code will answer that. There are billions of combinations... It will run one week for every ticker. Anyway short answer is RSI, not at default settings, do fundamental before technical and your money is at risk.
 
 Settings:<br>
 option = 0 - Downloads data on ticker<br>
@@ -66,8 +66,8 @@ Warning:
 You will see some ridiculous numbers, but do not go crazy and do not go all in on MSFT or anything else. Things you will learn from these tests:
 1. Strategy with 10% success rate can be more profitable than strategy with 90% success rate.
 2. Higher number of trades doesn't mean higher profit
-3. Every moron can come up with profitable strategy. But if strategy can't beat just holding it is worthless.
+3. Every moron can come up with profitable strategy. But if strategy can't beat just holding, it is worthless.
 4. Finding great strategy is like finding math function which describes graph well. There is no guarantee that price action will follow your function.
 5. Before trading on stock market, do fundamental analysis first and pick your best companies. Than you can start to do technical. And remember: Time in the market beats timing the market.
 
-
+# Your money is at risk. Don't blame me if you lose all of them.
